@@ -166,7 +166,7 @@
 </head>
 <body>
     <header>
-        <h1>Mustafa - DevOps Engineer</h1>
+        <h1>Nitheesh - DevOps Engineer ASE </h1>
         <p>Building Automation & Scalable Solutions for Modern Applications</p>
         <nav>
             <a href="#about">About</a>
